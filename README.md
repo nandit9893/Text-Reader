@@ -70,6 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-![TextUtils Light Mode](public/light.png)
+![TextUtils Light Mode](Text-Reader/public/light.png)
 
-![TextUtils Dark Mode](public/dark.png)
+![TextUtils Dark Mode](Text-Reader/public/dark.png)
